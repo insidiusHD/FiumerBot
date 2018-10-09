@@ -54,5 +54,5 @@ client.on("guildMemberAdd", member => {
 }); 
 
 
-bot.login('NDkxMDA1MzQ0NzI2NjQ2ODA1.DoBw5Q.Po2xETKKLfVUkIjb1oPB3LFWLJI');
-client.login('NDkxMDA1MzQ0NzI2NjQ2ODA1.DoBw5Q.Po2xETKKLfVUkIjb1oPB3LFWLJI');
+bot.login('NDkxMDA1MzQ0NzI2NjQ2ODA1.Dp4KPw.8u2aY0EDZvoYURxb6XFFH0ZZmL0');
+client.login('NDkxMDA1MzQ0NzI2NjQ2ODA1.Dp4KPw.8u2aY0EDZvoYURxb6XFFH0ZZmL0');
